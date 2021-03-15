@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SimpleMastermind/1.0.0": {
+        "runtime": {
+          "SimpleMastermind.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleMastermind/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
